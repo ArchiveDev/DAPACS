@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="BLL\ExcelManagerImpl.cs" />
     <Compile Include="BLL\IExcelManager.cs" />
+    <Compile Include="DAL\DBAcess.cs" />
     <Compile Include="Form\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
